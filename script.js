@@ -1,6 +1,6 @@
 //'https://api.artic.edu/api/v1/artworks';
 
-const JSON_PATH = '/Users/beatrizbaptista/Desktop/mestrado/DW/trabalhos/trabalho2/artwork.json';
+const JSON_PATH = 'https://github.com/beabaptistaa/DW/blob/main/artwork.json';
 
 class App {
   constructor() {
